@@ -1,6 +1,6 @@
 package literal;
 
-public class VarCopyDemo {
+public class VarCopyDemo1 {
     public static void main(String[] args) {
         int x = 5;
         x = 100;
